@@ -5,4 +5,4 @@ We appreciate it if you cite the following paper:
 
 Reference:
 
-Topçu, Ç., Frühwirth, M., Moser, M., Rosenblum, M., & Pikovsky, A. (2018). Disentangling Respiratory Sinus Arrhythmia in Heart Rate Variability Records. arXiv preprint arXiv:1802.00683.
+Topçu, Çağdaş, et al. "Disentangling respiratory sinus arrhythmia in heart rate variability records." Physiological measurement 39.5 (2018): 054002.
